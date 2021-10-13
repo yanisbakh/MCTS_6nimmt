@@ -6,3 +6,4 @@ It uses variations of MCTS algorithm to solve the game.
 
 Multiple performance tests are available on tests.h
 
+To test the different algorithms, pick a test in tests.h, and call the function on main.cpp
